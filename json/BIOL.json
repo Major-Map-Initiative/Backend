@@ -49,7 +49,8 @@
     "BILD 22": {
         "prerequisites": [],
         "name": "Human Nutrition",
-        "description": ""
+        "description":"A survey of our understanding of the basic chemistry and biology of human nutrition; discussions of all aspects of food: nutritional value, diet, nutritional diseases, public health, and public policy. This course is designed for nonbiology students and does not satisfy a lower-division requirement for any biology major. Open to nonbiology majors only. Note: Students may not receive credit for BILD 22 after receiving credit for BIBC 120."
+
     },
     "BILD 26": {
         "prerequisites": [],
@@ -59,7 +60,7 @@
     "BILD 30": {
         "prerequisites": [],
         "name": "Biology of Plagues: Past and Present",
-        "description": ""
+        "description": "An introduction to diseases caused by viruses, bacteria, and parasites, and the impact of these diseases on human society. Topics include the biology of infectious disease, epidemiology, and promising new methods to fight disease. Open to nonbiology majors only. Note: Students will not receive credit for BILD 30 if taken after BIMM 120."
     },
     "BILD 36": {
         "prerequisites": [],
